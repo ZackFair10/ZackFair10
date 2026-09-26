@@ -34,18 +34,19 @@ Mi interessa **[sviluppo web / dati / sistemi / cybersecurity]**.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,c,cpp,ts,js,html,css,angular,playwright,git,mysql,linux,docker,aws,azure&perline=8" />
 </p>
-
+<!--
 ### 📌 Progetti in evidenza
 
 - **[Nome progetto 1](https://github.com/ZackFair10/nome-repo)** — aggiungi descrizione
 - **[Nome progetto 2](https://github.com/ZackFair10/nome-repo)** — aggiungi descrizione
 - **[Nome progetto 3](https://github.com/ZackFair10/nome-repo)** — aggiungi descrizione
 
+
 ### 📊 Statistiche GitHub
 
 ![Statistiche GitHub di ZackFair10](https://github-readme-stats.vercel.app/api?username=ZackFair10&show_icons=true&theme=default)
 ![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackFair10&layout=compact)
-
+ -->
 ### 📫 Contatti
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppedemartino10/)
