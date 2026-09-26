@@ -1,7 +1,7 @@
 # Ciao, sono ZackFair10 👋
 
 Studente di Informatica presso l'Università Federico II Napoli
-Mi interessa **[ambito: sviluppo web / dati / sistemi / cybersecurity]**.
+Mi interessa **[sviluppo web / dati / sistemi / cybersecurity]**.
 
 ---
 
